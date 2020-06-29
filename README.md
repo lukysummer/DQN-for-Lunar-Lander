@@ -1,4 +1,4 @@
-# Deep Q-Network for OpenAI's [Lunar Lander](https://github.com/openai/gym/blob/master/gym/envs/box2d/lunar_lander.py) (PyTorch)
+# [Deep Q-Network](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) for OpenAI's [Lunar Lander](https://github.com/openai/gym/blob/master/gym/envs/box2d/lunar_lander.py) (PyTorch)
 
 
 ## Result
