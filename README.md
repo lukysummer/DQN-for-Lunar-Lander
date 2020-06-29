@@ -3,7 +3,7 @@
 
 ## Result
 
-<p align="center"><img src="assets/final_simul.mp4" width = "600" height = "400"></p>
+![](assests/final_simul.mp4)
 
 
 ## DQN was implemented with following tricks:
@@ -23,11 +23,11 @@
 
 * **n_episodes** : 4000
 * **model architecture** : 2 fully connected layers (h=32)
-* **Reply Buffer Capacity** : 100,000 tuples
+* **reply buffer capacity** : 100,000 tuples
 * **batch size** : 64       
 * **discount rate, γ** : 0.99    
-* **soft update factor, τ ** (for target network params) : 0.001 1e-3     
+* **soft update factor, τ** (for target network params) : 0.001 1e-3     
 * **learning rate** : 0.0005               
-* **Update weights every** 4 episode steps 
+* **update weights every** 4 episode steps 
 
-Final model checkpoint producing above simulation is in `models/` folder. 
+*Final model checkpoint producing above simulation is in `models/` folder.*
