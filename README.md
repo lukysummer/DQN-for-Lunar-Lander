@@ -3,7 +3,7 @@
 
 ## Result
 
-![](assests/final_simul.mp4)
+[![Lunar Lander after ~2 hours of training](https://yt-embed.herokuapp.com/embed?v=4lU5gFPzzEI)](https://www.youtube.com/watch?v=4lU5gFPzzEI&feature=youtu.be)
 
 
 ## DQN was implemented with following tricks:
