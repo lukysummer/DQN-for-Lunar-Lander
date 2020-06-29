@@ -3,7 +3,7 @@
 
 ## Result
 
-<p align="center"><img src="final_simul.mp4" width = "600" height = "400"></p>
+<p align="center"><img src="assets/final_simul.mp4" width = "600" height = "400"></p>
 
 
 ## DQN was implemented with following tricks:
@@ -16,7 +16,7 @@
 
 ## Weight Update formula for DQN: 
 
-<p align="center"><img src="formula.png" width = "550" height = "100"></p>
+<p align="center"><img src="assets/formula.png" width = "550" height = "100"></p>
 
 
 ## Hyperparameters
