@@ -31,9 +31,9 @@
 * **ε-greedy Policy** : choosing non-greedy action with probability = ε (starts at 1 and decays to 0 each episode) 
 
 
-## Weight Update formula for DQN
+## Loss function for DQN
 
-<p align="center"><img src="assets/formula.png" width = "550" height = "100"></p>
+<p align="center"><img src="assets/loss_formula.png" height = "100"></p>
 
 
 ## Plot of Scores (= total reward for each episode)
